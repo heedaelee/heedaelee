@@ -26,8 +26,7 @@ I enjoy making something new.
 <br/><br/><br/>
 </div>
 
-![Daivid's GitHub stats](https://github-readme-stats.vercel.app/api?username=heedaelee&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heedaelee&layout=compact&theme=react)
+![Daivid's GitHub stats](https://github-readme-stats.vercel.app/api?username=heedaelee&show_icons=true&theme=react) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heedaelee&layout=compact&theme=react)
 
 
 
