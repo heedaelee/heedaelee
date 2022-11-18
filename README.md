@@ -14,7 +14,7 @@ My Tech Blog : <a href="https://velog.io/@adguy"><img src="https://img.shields.i
 
 ---
 ## 🎢 &nbsp;Hobby
-💪 Excise, ☕ Coffee , 🤔 Studying philosophy, 📚 Joining book club.
+💪 Exercise, ☕ Coffee , 🤔 Studying philosophy, 📚 Joining book club.
 
 <br/><br/><br/>
 
