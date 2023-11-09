@@ -2,8 +2,8 @@
 
 # David's Github
 
-👋 Hi, I'm a web app developer (mostly with ReactNative) in South Korea. 
-I'm interested in woking on frontend developement. Sometimes, if needed, I can develop backend. 
+👋 Hi, I'm a front(web/app) developer (mostly with ReactNative) in South Korea. 
+I'm interested in working on frontend developement. Sometimes, if needed, I can develop backend. 
 I have experience in developing Arduino (c++) and ReactNative app related to Health care product. (the app using FSR sensors)
 I enjoy making something new project.  
 My Tech Blog : <a href="https://velog.io/@adguy"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
