@@ -6,6 +6,7 @@
 I am keen on working on front-end development and can work on back-end development if required. 
 I have developed Arduino (c++) and ReactNative applications for a healthcare product that used FSR sensors. 
 Creating new projects is something I enjoy.
+
 My Tech Blog : <a href="https://velog.io/@adguy"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 <br/>
