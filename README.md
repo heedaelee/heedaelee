@@ -30,5 +30,6 @@ My Tech Blog : <a href="https://velog.io/@adguy"><img src="https://img.shields.i
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heedaelee&hide=Java,HTML,TeX&layout=compact&theme=react)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/heedaelee/github-readme-stats)
 
 </div>
