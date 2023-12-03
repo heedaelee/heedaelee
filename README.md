@@ -28,6 +28,6 @@ My Tech Blog : <a href="https://velog.io/@adguy"><img src="https://img.shields.i
 
 <br/><br/><br/>
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=heedaelee)](https://github.com/heedaelee/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heedaelee&hide=Java,HTML,TeX&layout=compact&theme=react)<br/>
 </div>
